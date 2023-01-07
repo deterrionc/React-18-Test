@@ -1,1 +1,6 @@
-# React-18-Test
+# Start
+npm run dev
+
+# Build
+cd client
+npm run build
